@@ -1,0 +1,3 @@
+[submodule "flamingo.nvim"]
+	path = flamingo.nvim
+	url = https://github.com/rb152080/flamingo.nvim.git
