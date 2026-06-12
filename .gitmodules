@@ -1,3 +1,6 @@
 [submodule "flamingo.nvim"]
 	path = flamingo.nvim
 	url = https://github.com/rb152080/flamingo.nvim.git
+[submodule "zathura-flamingo"]
+	path = zathura-flamingo
+	url = https://github.com/rb152080/zathura-flamingo.git
